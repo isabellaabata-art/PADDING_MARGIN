@@ -1,0 +1,65 @@
+*{
+    margin: 0;
+padding: 0%;
+box-sizing: border-box;
+
+}
+main{
+
+border: 2px solid black;
+display: inline-block;
+padding-inline: 30px;
+padding-block: 15px;
+width: 400px;
+margin-inline: auto;
+margin-inline: 500px;
+}
+
+
+
+.foto {
+    border: 2px solid black;
+    padding: 100px;
+display: inline-block;
+   padding-inline: 70px;
+   padding-bottom: 60px;
+   
+}
+
+.link{
+    border: 2px solid black;
+    padding: 10px;
+       padding-inline: 10px;
+       padding-bottom: 20px;
+margin-right: 170px;
+
+}
+
+hr{
+    margin-block: 10px;
+}
+
+.n{
+    border: 2px solid black;
+    padding: 30px;
+}
+
+.u{
+
+    border: 2px solid black;
+    padding: 30px;
+    display: inline;
+}
+
+.m{
+    border: 2px solid black;
+    padding: 30px;
+display: inline;
+}
+
+footer{
+
+    margin-top: 35px;
+    border: 2px solid black;
+    
+}
